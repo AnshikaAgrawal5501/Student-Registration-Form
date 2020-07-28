@@ -1,0 +1,2 @@
+# Student-Registration-Form
+the registration form for student's registration for the batch 2020-21. At first, there is a introductory page. On clicking the start, you will be directed to the form where you have to fill up your details. There are some mandatory feilds also. After filling up the form you can submit your details by clicking the submit button, a reset button has also been provided. On submitting the form, a confirmation page appears.
